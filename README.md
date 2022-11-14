@@ -202,4 +202,4 @@
 >           ⦿ [Project Development - Delivery Of Sprint-4] -
 >                
 
-### IBM Project | Dept of Computer Science and Engineering | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr-fr.facebook.com%2Fadhiparasakthiengineeringcollege%2F&psig=AOvVaw3YFzKrA5XBhcnZ3h0VXGh5&ust=1668492386939000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiwi9OArfsCFQAAAAAdAAAAABAE" alt="InfiniteGraph Logo" width="20"> Adhiparasakthi Engineering College 
+### IBM Project | Dept of Computer Science and Engineering | <img src="D:\images\logo.jpg" alt="InfiniteGraph Logo" width="20"> Adhiparasakthi Engineering College 
