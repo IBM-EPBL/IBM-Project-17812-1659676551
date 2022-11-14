@@ -31,9 +31,9 @@
     
     2. Gayathri K[TM1] -420419104016
     
-    3. Gayathri S[TM2] - 420419104017
+    3. Gayathri S[TM2] -420419104017
     
-    4. Sivaranjani G[TM3] - 420419104049
+    4. Sivaranjani G[TM3] -420419104049
 
 <div>
  <h2><picture>
