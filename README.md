@@ -193,7 +193,7 @@
 >           
 >       ➼ Project Development Phase
 >       
->           ⦿ [Project Development - Delivery Of Sprint-1] -
+>           ⦿ [Project Development - Delivery Of Sprint-1] -https://github.com/IBM-EPBL/IBM-Project-17812-1659676551/tree/main/Project%20Development%20phase/Sprint%201/Data%20collection
 >           
 >           ⦿ [Project Development - Delivery Of Sprint-2] -     
 >               
