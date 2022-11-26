@@ -197,9 +197,9 @@
 >           
 >           ⦿ [Project Development - Delivery Of Sprint-2] - https://github.com/IBM-EPBL/IBM-Project-17812-1659676551/tree/main/Project%20Development%20phase/Sprint%202/Model%20Building    
 >               
->           ⦿ [Project Development - Delivery Of Sprint-3]-
+>           ⦿ [Project Development - Delivery Of Sprint-3]-https://github.com/IBM-EPBL/IBM-Project-17812-1659676551/tree/main/Project%20Development%20phase/Sprint%203/Application%20Building
 >           
->           ⦿ [Project Development - Delivery Of Sprint-4] -
+>           ⦿ [Project Development - Delivery Of Sprint-4] -https://github.com/IBM-EPBL/IBM-Project-17812-1659676551/tree/main/Project%20Development%20phase/Sprint%204/Train%20the%20model%20on%20IBM
 >               Demo link          - https://drive.google.com/file/d/1qKR2JKY-128lEtgfcAJpTKrIOXAPsWxo/view?usp=share_link
 
 ### IBM Project | Dept of Computer Science and Engineering | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3bDjBPaz7_qR9nnNn83YSDWVGk7EMXCFzLI9gQDrOH0FBvNdYdmMUOKDt-M_7VbmTAI&usqp=CAU" alt="InfiniteGraph Logo" width="20"> Adhiparasakthi Engineering College 
